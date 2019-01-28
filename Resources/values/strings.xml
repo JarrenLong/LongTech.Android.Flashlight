@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Flashlight</string>
+  <string name="click_to_toggle">Click anywhere to toggle the flashlight. Seriously, anywhere.</string>
+  <!-- For Testing Use Only -->
+  <string name="testAdAppId">ca-app-pub-3940256099942544~3347511713</string>
+  <string name="testAdBanner">ca-app-pub-3940256099942544/6300978111</string>
+  <string name="testAdInterstitial">ca-app-pub-3940256099942544/1033173712</string>
+  <!-- For Production Use Only -->
+  <string name="flashlightAdAppId">ca-app-pub-8519280427354162~8123170860</string>
+  <string name="flashlightAdBanner">ca-app-pub-8519280427354162/9216760687</string>
+</resources>

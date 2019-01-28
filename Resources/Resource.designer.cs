@@ -3258,11 +3258,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f080000
 			public const int common_google_play_services_unknown_issue = 2131230720;
 			
-			// aapt resource value: 0x7f080033
-			public const int flashlightAdAppId = 2131230771;
-			
-			// aapt resource value: 0x7f080034
-			public const int flashlightAdBanner = 2131230772;
+			// aapt resource value: 0x7f080030
+			public const int flashlightAdBanner = 2131230768;
 			
 			// aapt resource value: 0x7f080028
 			public const int password_toggle_content_description = 2131230760;
@@ -3302,15 +3299,6 @@ namespace LongTech.Android.Flashlight
 			
 			// aapt resource value: 0x7f08002d
 			public const int status_bar_notification_info_overflow = 2131230765;
-			
-			// aapt resource value: 0x7f080030
-			public const int testAdAppId = 2131230768;
-			
-			// aapt resource value: 0x7f080031
-			public const int testAdBanner = 2131230769;
-			
-			// aapt resource value: 0x7f080032
-			public const int testAdInterstitial = 2131230770;
 			
 			static String()
 			{

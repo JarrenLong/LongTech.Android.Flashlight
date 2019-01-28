@@ -19,7 +19,7 @@
     <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
     <meta-data
         android:name="com.google.android.gms.ads.APPLICATION_ID"
-        android:value="@string/flashlightAdAppId"/>
+        android:value="ca-app-pub-8519280427354162~8123170860"/>
     <activity
       android:name="com.google.android.gms.ads.AdActivity"
       android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"

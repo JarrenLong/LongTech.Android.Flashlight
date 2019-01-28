@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Content;
 using Android.Gms.Ads;
+using Android.Net;
 using Android.OS;
 using Android.Support.V7.App;
 using Android.Widget;
@@ -28,11 +29,9 @@ namespace LongTech.Android.Flashlight
       var img = FindViewById<ImageView>(Resource.Id.imageView1);
       img.Click += (s, e) =>
       {
-        Intent i = new Intent(Intent.ActionWebSearch);
-        i.SetType("text/plain");
-        //i.PutExtra(Intent.ExtraSubject, "Title Of The Post");
-        i.PutExtra(Intent.ExtraSubject, "https://www.booksnbytes.net");
-        SendBroadcast(i);
+        // Let's go visit Books N' Bytes website!
+        Intent i = new Intent(Intent.ActionView, Uri.Parse("https://www.booksnbytes.net"));
+        StartActivity(i);
       };
     }
 

@@ -2239,89 +2239,92 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02006a
-			public const int avd_hide_password_1 = 2130837610;
-			
 			// aapt resource value: 0x7f02006b
-			public const int avd_hide_password_2 = 2130837611;
+			public const int avd_hide_password_1 = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int avd_hide_password_3 = 2130837612;
+			public const int avd_hide_password_2 = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int avd_hide_password_3 = 2130837613;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f02006d
-			public const int avd_show_password_1 = 2130837613;
-			
 			// aapt resource value: 0x7f02006e
-			public const int avd_show_password_2 = 2130837614;
+			public const int avd_show_password_1 = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int avd_show_password_3 = 2130837615;
+			public const int avd_show_password_2 = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int avd_show_password_3 = 2130837616;
 			
 			// aapt resource value: 0x7f020055
-			public const int design_bottom_navigation_item_background = 2130837589;
+			public const int bnb_logo = 2130837589;
 			
 			// aapt resource value: 0x7f020056
-			public const int design_fab_background = 2130837590;
+			public const int design_bottom_navigation_item_background = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int design_ic_visibility = 2130837591;
+			public const int design_fab_background = 2130837591;
 			
 			// aapt resource value: 0x7f020058
-			public const int design_ic_visibility_off = 2130837592;
+			public const int design_ic_visibility = 2130837592;
 			
 			// aapt resource value: 0x7f020059
-			public const int design_password_eye = 2130837593;
+			public const int design_ic_visibility_off = 2130837593;
 			
 			// aapt resource value: 0x7f02005a
-			public const int design_snackbar_background = 2130837594;
+			public const int design_password_eye = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int navigation_empty_icon = 2130837595;
+			public const int design_snackbar_background = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int notification_action_background = 2130837596;
+			public const int navigation_empty_icon = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int notification_bg = 2130837597;
+			public const int notification_action_background = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int notification_bg_low = 2130837598;
+			public const int notification_bg = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int notification_bg_low_normal = 2130837599;
+			public const int notification_bg_low = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int notification_bg_low_pressed = 2130837600;
+			public const int notification_bg_low_normal = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int notification_bg_normal = 2130837601;
+			public const int notification_bg_low_pressed = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int notification_bg_normal_pressed = 2130837602;
+			public const int notification_bg_normal = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int notification_icon_background = 2130837603;
-			
-			// aapt resource value: 0x7f020068
-			public const int notification_template_icon_bg = 2130837608;
-			
-			// aapt resource value: 0x7f020069
-			public const int notification_template_icon_low_bg = 2130837609;
+			public const int notification_bg_normal_pressed = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int notification_tile_bg = 2130837604;
+			public const int notification_icon_background = 2130837604;
+			
+			// aapt resource value: 0x7f020069
+			public const int notification_template_icon_bg = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int notification_template_icon_low_bg = 2130837610;
 			
 			// aapt resource value: 0x7f020065
-			public const int notify_panel_notification_icon_bg = 2130837605;
+			public const int notification_tile_bg = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int tooltip_frame_dark = 2130837606;
+			public const int notify_panel_notification_icon_bg = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int tooltip_frame_light = 2130837607;
+			public const int tooltip_frame_dark = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int tooltip_frame_light = 2130837608;
 			
 			static Drawable()
 			{
@@ -2354,8 +2357,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0037
 			public const int SYM = 2131427383;
 			
-			// aapt resource value: 0x7f0b009f
-			public const int action0 = 2131427487;
+			// aapt resource value: 0x7f0b00a0
+			public const int action0 = 2131427488;
 			
 			// aapt resource value: 0x7f0b007c
 			public const int action_bar = 2131427452;
@@ -2378,17 +2381,17 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b005a
 			public const int action_bar_title = 2131427418;
 			
-			// aapt resource value: 0x7f0b009c
-			public const int action_container = 2131427484;
+			// aapt resource value: 0x7f0b009d
+			public const int action_container = 2131427485;
 			
 			// aapt resource value: 0x7f0b007d
 			public const int action_context_bar = 2131427453;
 			
-			// aapt resource value: 0x7f0b00a3
-			public const int action_divider = 2131427491;
+			// aapt resource value: 0x7f0b00a4
+			public const int action_divider = 2131427492;
 			
-			// aapt resource value: 0x7f0b009d
-			public const int action_image = 2131427485;
+			// aapt resource value: 0x7f0b009e
+			public const int action_image = 2131427486;
 			
 			// aapt resource value: 0x7f0b0003
 			public const int action_menu_divider = 2131427331;
@@ -2405,17 +2408,17 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b005c
 			public const int action_mode_close_button = 2131427420;
 			
-			// aapt resource value: 0x7f0b009e
-			public const int action_text = 2131427486;
+			// aapt resource value: 0x7f0b009f
+			public const int action_text = 2131427487;
 			
-			// aapt resource value: 0x7f0b00ac
-			public const int actions = 2131427500;
+			// aapt resource value: 0x7f0b00ad
+			public const int actions = 2131427501;
 			
 			// aapt resource value: 0x7f0b005d
 			public const int activity_chooser_view_content = 2131427421;
 			
-			// aapt resource value: 0x7f0b008d
-			public const int adView = 2131427469;
+			// aapt resource value: 0x7f0b008e
+			public const int adView = 2131427470;
 			
 			// aapt resource value: 0x7f0b0027
 			public const int add = 2131427367;
@@ -2447,8 +2450,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0063
 			public const int buttonPanel = 2131427427;
 			
-			// aapt resource value: 0x7f0b00a0
-			public const int cancel_action = 2131427488;
+			// aapt resource value: 0x7f0b00a1
+			public const int cancel_action = 2131427489;
 			
 			// aapt resource value: 0x7f0b0045
 			public const int center = 2131427397;
@@ -2462,8 +2465,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0073
 			public const int checkbox = 2131427443;
 			
-			// aapt resource value: 0x7f0b00a8
-			public const int chronometer = 2131427496;
+			// aapt resource value: 0x7f0b00a9
+			public const int chronometer = 2131427497;
 			
 			// aapt resource value: 0x7f0b004e
 			public const int clip_horizontal = 2131427406;
@@ -2474,14 +2477,14 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0039
 			public const int collapseActionView = 2131427385;
 			
-			// aapt resource value: 0x7f0b0090
-			public const int container = 2131427472;
+			// aapt resource value: 0x7f0b0091
+			public const int container = 2131427473;
 			
 			// aapt resource value: 0x7f0b0066
 			public const int contentPanel = 2131427430;
 			
-			// aapt resource value: 0x7f0b0091
-			public const int coordinator = 2131427473;
+			// aapt resource value: 0x7f0b0092
+			public const int coordinator = 2131427474;
 			
 			// aapt resource value: 0x7f0b006d
 			public const int custom = 2131427437;
@@ -2495,20 +2498,20 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0060
 			public const int default_activity_button = 2131427424;
 			
-			// aapt resource value: 0x7f0b0093
-			public const int design_bottom_sheet = 2131427475;
+			// aapt resource value: 0x7f0b0094
+			public const int design_bottom_sheet = 2131427476;
+			
+			// aapt resource value: 0x7f0b009b
+			public const int design_menu_item_action_area = 2131427483;
 			
 			// aapt resource value: 0x7f0b009a
-			public const int design_menu_item_action_area = 2131427482;
+			public const int design_menu_item_action_area_stub = 2131427482;
 			
 			// aapt resource value: 0x7f0b0099
-			public const int design_menu_item_action_area_stub = 2131427481;
+			public const int design_menu_item_text = 2131427481;
 			
 			// aapt resource value: 0x7f0b0098
-			public const int design_menu_item_text = 2131427480;
-			
-			// aapt resource value: 0x7f0b0097
-			public const int design_navigation_view = 2131427479;
+			public const int design_navigation_view = 2131427480;
 			
 			// aapt resource value: 0x7f0b0020
 			public const int disableHome = 2131427360;
@@ -2519,8 +2522,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0030
 			public const int end = 2131427376;
 			
-			// aapt resource value: 0x7f0b00ae
-			public const int end_padder = 2131427502;
+			// aapt resource value: 0x7f0b00af
+			public const int end_padder = 2131427503;
 			
 			// aapt resource value: 0x7f0b003f
 			public const int enterAlways = 2131427391;
@@ -2564,8 +2567,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0062
 			public const int icon = 2131427426;
 			
-			// aapt resource value: 0x7f0b00ad
-			public const int icon_group = 2131427501;
+			// aapt resource value: 0x7f0b00ae
+			public const int icon_group = 2131427502;
 			
 			// aapt resource value: 0x7f0b003a
 			public const int ifRoom = 2131427386;
@@ -2573,8 +2576,11 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b005f
 			public const int image = 2131427423;
 			
-			// aapt resource value: 0x7f0b00a9
-			public const int info = 2131427497;
+			// aapt resource value: 0x7f0b008c
+			public const int imageView1 = 2131427468;
+			
+			// aapt resource value: 0x7f0b00aa
+			public const int info = 2131427498;
 			
 			// aapt resource value: 0x7f0b0059
 			public const int italic = 2131427417;
@@ -2582,8 +2588,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0000
 			public const int item_touch_helper_previous_elevation = 2131427328;
 			
-			// aapt resource value: 0x7f0b008f
-			public const int largeLabel = 2131427471;
+			// aapt resource value: 0x7f0b0090
+			public const int largeLabel = 2131427472;
 			
 			// aapt resource value: 0x7f0b0049
 			public const int left = 2131427401;
@@ -2600,14 +2606,14 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0061
 			public const int list_item = 2131427425;
 			
-			// aapt resource value: 0x7f0b00b1
-			public const int masked = 2131427505;
+			// aapt resource value: 0x7f0b00b2
+			public const int masked = 2131427506;
 			
-			// aapt resource value: 0x7f0b00a2
-			public const int media_actions = 2131427490;
+			// aapt resource value: 0x7f0b00a3
+			public const int media_actions = 2131427491;
 			
-			// aapt resource value: 0x7f0b00af
-			public const int message = 2131427503;
+			// aapt resource value: 0x7f0b00b0
+			public const int message = 2131427504;
 			
 			// aapt resource value: 0x7f0b0031
 			public const int middle = 2131427377;
@@ -2618,8 +2624,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0028
 			public const int multiply = 2131427368;
 			
-			// aapt resource value: 0x7f0b0096
-			public const int navigation_header_container = 2131427478;
+			// aapt resource value: 0x7f0b0097
+			public const int navigation_header_container = 2131427479;
 			
 			// aapt resource value: 0x7f0b003b
 			public const int never = 2131427387;
@@ -2630,14 +2636,14 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b001e
 			public const int normal = 2131427358;
 			
-			// aapt resource value: 0x7f0b00ab
-			public const int notification_background = 2131427499;
+			// aapt resource value: 0x7f0b00ac
+			public const int notification_background = 2131427500;
+			
+			// aapt resource value: 0x7f0b00a6
+			public const int notification_main_column = 2131427494;
 			
 			// aapt resource value: 0x7f0b00a5
-			public const int notification_main_column = 2131427493;
-			
-			// aapt resource value: 0x7f0b00a4
-			public const int notification_main_column_container = 2131427492;
+			public const int notification_main_column_container = 2131427493;
 			
 			// aapt resource value: 0x7f0b004c
 			public const int parallax = 2131427404;
@@ -2663,11 +2669,11 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b004a
 			public const int right = 2131427402;
 			
-			// aapt resource value: 0x7f0b00aa
-			public const int right_icon = 2131427498;
+			// aapt resource value: 0x7f0b00ab
+			public const int right_icon = 2131427499;
 			
-			// aapt resource value: 0x7f0b00a6
-			public const int right_side = 2131427494;
+			// aapt resource value: 0x7f0b00a7
+			public const int right_side = 2131427495;
 			
 			// aapt resource value: 0x7f0b000c
 			public const int save_image_matrix = 2131427340;
@@ -2741,14 +2747,14 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0025
 			public const int showTitle = 2131427365;
 			
-			// aapt resource value: 0x7f0b008e
-			public const int smallLabel = 2131427470;
+			// aapt resource value: 0x7f0b008f
+			public const int smallLabel = 2131427471;
+			
+			// aapt resource value: 0x7f0b0096
+			public const int snackbar_action = 2131427478;
 			
 			// aapt resource value: 0x7f0b0095
-			public const int snackbar_action = 2131427477;
-			
-			// aapt resource value: 0x7f0b0094
-			public const int snackbar_text = 2131427476;
+			public const int snackbar_text = 2131427477;
 			
 			// aapt resource value: 0x7f0b0043
 			public const int snap = 2131427395;
@@ -2771,8 +2777,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b004b
 			public const int start = 2131427403;
 			
-			// aapt resource value: 0x7f0b00a1
-			public const int status_bar_latest_event_content = 2131427489;
+			// aapt resource value: 0x7f0b00a2
+			public const int status_bar_latest_event_content = 2131427490;
 			
 			// aapt resource value: 0x7f0b0076
 			public const int submenuarrow = 2131427446;
@@ -2798,11 +2804,11 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0069
 			public const int textSpacerNoTitle = 2131427433;
 			
-			// aapt resource value: 0x7f0b008c
-			public const int textViewLabel = 2131427468;
+			// aapt resource value: 0x7f0b008d
+			public const int textViewLabel = 2131427469;
 			
-			// aapt resource value: 0x7f0b009b
-			public const int text_input_password_toggle = 2131427483;
+			// aapt resource value: 0x7f0b009c
+			public const int text_input_password_toggle = 2131427484;
 			
 			// aapt resource value: 0x7f0b0014
 			public const int textinput_counter = 2131427348;
@@ -2810,8 +2816,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0015
 			public const int textinput_error = 2131427349;
 			
-			// aapt resource value: 0x7f0b00a7
-			public const int time = 2131427495;
+			// aapt resource value: 0x7f0b00a8
+			public const int time = 2131427496;
 			
 			// aapt resource value: 0x7f0b001c
 			public const int title = 2131427356;
@@ -2831,8 +2837,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b006e
 			public const int topPanel = 2131427438;
 			
-			// aapt resource value: 0x7f0b0092
-			public const int touch_outside = 2131427474;
+			// aapt resource value: 0x7f0b0093
+			public const int touch_outside = 2131427475;
 			
 			// aapt resource value: 0x7f0b000f
 			public const int transition_current_scene = 2131427343;
@@ -2861,8 +2867,8 @@ namespace LongTech.Android.Flashlight
 			// aapt resource value: 0x7f0b0016
 			public const int view_offset_helper = 2131427350;
 			
-			// aapt resource value: 0x7f0b00b0
-			public const int visible = 2131427504;
+			// aapt resource value: 0x7f0b00b1
+			public const int visible = 2131427505;
 			
 			// aapt resource value: 0x7f0b003c
 			public const int withText = 2131427388;

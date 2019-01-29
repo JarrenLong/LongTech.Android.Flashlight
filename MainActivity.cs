@@ -6,7 +6,7 @@ using Android.OS;
 using Android.Support.V7.App;
 using Android.Widget;
 
-namespace LongTech.Android.Flashlight
+namespace com.LongTech.Android.Flashlight
 {
   [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
   public class MainActivity : AppCompatActivity

@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("LongTech.Android.Flashlight.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("com.LongTech.Android.Flashlight.Resource", IsApplication=true)]
 
-namespace LongTech.Android.Flashlight
+namespace com.LongTech.Android.Flashlight
 {
 	
 	

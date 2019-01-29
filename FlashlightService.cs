@@ -3,7 +3,7 @@ using Android.Hardware;
 using Android.Hardware.Camera2;
 using Android.OS;
 
-namespace LongTech.Android.Flashlight
+namespace com.LongTech.Android.Flashlight
 {
   /// <summary>
   /// Provides generic service for toggling the flashlight's state

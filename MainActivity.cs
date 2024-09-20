@@ -16,7 +16,7 @@ namespace com.LongTech.Android.Flashlight
       base.OnCreate(savedInstanceState);
       SetContentView(Resource.Layout.activity_main);
 
-      MobileAds.Initialize(this, "ca-app-pub-8519280427354162~8123170860");
+      MobileAds.Initialize(this, "ca-app-pub-0123456789123456~0123456789");
 
       mAdView = FindViewById<AdView>(Resource.Id.adView);
       mAdView.AdListener = new MyAdListener();

@@ -2,5 +2,5 @@
   <string name="app_name">Flashlight</string>
   <string name="click_to_toggle">Click anywhere to toggle the flashlight. Seriously, anywhere.</string>
   <!-- For Production Use Only -->
-  <string name="flashlightAdBanner">ca-app-pub-8519280427354162/9216760687</string>
+  <string name="flashlightAdBanner">ca-app-pub-01234567890/0123456789</string>
 </resources>
